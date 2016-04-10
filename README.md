@@ -34,5 +34,7 @@ The displayed data on the charts come from:
     <li>chroma</li>
 </ul>
 
-<img src="img/screenshot.JPG" />
-<a href="" target="_blank" >Show preview</a>
+<a href="https://cdn.rawgit.com/pafavero/chart-map2/master/worldMap.html" target="_blank" >
+    <img title="show preview" src="img/screenshot.JPG" />
+</a>
+<a href="https://cdn.rawgit.com/pafavero/chart-map2/master/worldMap.html" target="_blank" >Show preview</a>
