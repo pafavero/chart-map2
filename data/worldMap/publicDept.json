@@ -1,0 +1,494 @@
+{
+  "JAPAN": {
+    "debt":227.7
+  },
+  "ZIMBABWE": {
+    "debt":181
+  },
+  "GREECE": {
+    "debt":174.5
+  },
+  "LEBANON": {
+    "debt":142.4
+  },
+  "ITALY": {
+    "debt":134.1
+  },
+  "JAMAICA": {
+    "debt":132
+  },
+  "PORTUGAL": {
+    "debt":131
+  },
+  "CYPRUS": {
+    "debt":119.4
+  },
+  "IRELAND": {
+    "debt":118.9
+  },
+  "GRENADA": {
+    "debt":110
+  },
+  "SINGAPORE": {
+    "debt":106.7
+  },
+  "BELGIUM": {
+    "debt":101.9
+  },
+  "ERITREA": {
+    "debt":101.3
+  },
+  "BARBADOS": {
+    "debt":101.2
+  },
+  "SPAIN": {
+    "debt":97.6
+  },
+  "FRANCE": {
+    "debt":95.5
+  },
+  "ICELAND": {
+    "debt":94
+  },
+  "EGYPT": {
+    "debt":93.8
+  },
+  "PUERTO RICO": {
+    "debt":93.6
+  },
+  "CANADA": {
+    "debt":92.6
+  },
+  "BHUTAN": {
+    "debt":91.5
+  },
+  "JORDAN": {
+    "debt":90
+  },
+  "ANTIGUA AND BARBUDA": {
+    "debt":89
+  },
+  "UNITED KINGDOM": {
+    "debt":86.6
+  },
+  "CABO VERDE": {
+    "debt":86.2
+  },
+  "SAINT KITTS AND NEVIS": {
+    "debt":83
+  },
+  "AUSTRIA": {
+    "debt":80.2
+  },
+  "BELIZE": {
+    "debt":79.6
+  },
+  "HUNGARY": {
+    "debt":78.2
+  },
+  "SRI LANKA": {
+    "debt":78.2
+  },
+  "SAO TOME AND PRINCIPE": {
+    "debt":77.1
+  },
+  "SAINT LUCIA": {
+    "debt":77
+  },
+  "MOROCCO": {
+    "debt":76.6
+  },
+  "MALTA": {
+    "debt":75.3
+  },
+  "GERMANY": {
+    "debt":74.7
+  },
+  "GHANA": {
+    "debt":72.7
+  },
+  "ALBANIA": {
+    "debt":71.4
+  },
+  "SUDAN": {
+    "debt":71.3
+  },
+  "UNITED STATES": {
+    "debt":71.2
+  },
+  "CROATIA": {
+    "debt":70.3
+  },
+  "DOMINICA": {
+    "debt":70
+  },
+  "NETHERLANDS": {
+    "debt":69.4
+  },
+  "ISRAEL": {
+    "debt":67.4
+  },
+  "SAINT VINCENT AND THE GRENADINES": {
+    "debt":67
+  },
+  "ARUBA": {
+    "debt":67
+  },
+  "UKRAINE": {
+    "debt":66.2
+  },
+  "SERBIA": {
+    "debt":65
+  },
+  "URUGUAY": {
+    "debt":64.7
+  },
+  "SEYCHELLES": {
+    "debt":64.5
+  },
+  "PAKISTAN": {
+    "debt":64.3
+  },
+  "EL SALVADOR": {
+    "debt":63.4
+  },
+  "MAURITIUS": {
+    "debt":61.4
+  },
+  "SLOVENIA": {
+    "debt":59.8
+  },
+  "FINLAND": {
+    "debt":59.6
+  },
+  "COSTA RICA": {
+    "debt":59.4
+  },
+  "BRAZIL": {
+    "debt":59.3
+  },
+  "KENYA": {
+    "debt":58.9
+  },
+  "SLOVAKIA": {
+    "debt":58.5
+  },
+  "GUYANA": {
+    "debt":58
+  },
+  "BAHAMAS, THE": {
+    "debt":57.6
+  },
+  "SYRIA": {
+    "debt":57.3
+  },
+  "ETHIOPIA": {
+    "debt":55.1
+  },
+  "MALAYSIA": {
+    "debt":54.2
+  },
+  "FIJI": {
+    "debt":52.3
+  },
+  "MONTENEGRO": {
+    "debt":52.1
+  },
+  "VENEZUELA": {
+    "debt":51.4
+  },
+  "INDIA": {
+    "debt":51.3
+  },
+  "YEMEN": {
+    "debt":51
+  },
+  "TRINIDAD AND TOBAGO": {
+    "debt":50.6
+  },
+  "TUNISIA": {
+    "debt":49.9
+  },
+  "THAILAND": {
+    "debt":48.6
+  },
+  "PHILIPPINES": {
+    "debt":48.4
+  },
+  "DOMINICAN REPUBLIC": {
+    "debt":48.2
+  },
+  "MALAWI": {
+    "debt":48
+  },
+  "SENEGAL": {
+    "debt":47.5
+  },
+  "SOUTH AFRICA": {
+    "debt":47.3
+  },
+  "MOZAMBIQUE": {
+    "debt":47.2
+  },
+  "LAOS": {
+    "debt":46.2
+  },
+  "POLAND": {
+    "debt":45.6
+  },
+  "VIETNAM": {
+    "debt":45.5
+  },
+  "BOSNIA AND HERZEGOVINA": {
+    "debt":45.5
+  },
+  "DENMARK": {
+    "debt":44.3
+  },
+  "HONDURAS": {
+    "debt":44.3
+  },
+  "UNITED ARAB EMIRATES": {
+    "debt":44.2
+  },
+  "CZECH REPUBLIC": {
+    "debt":43.5
+  },
+  "BAHRAIN": {
+    "debt":43.4
+  },
+  "COTE D'IVOIRE": {
+    "debt":42.9
+  },
+  "TANZANIA": {
+    "debt":42.9
+  },
+  "ARMENIA": {
+    "debt":42.4
+  },
+  "COLOMBIA": {
+    "debt":41.9
+  },
+  "ANDORRA": {
+    "debt":41.1
+  },
+  "WEST BANK": {
+    "debt":41
+  },
+  "MEXICO": {
+    "debt":41
+  },
+  "CUBA": {
+    "debt":40.6
+  },
+  "NICARAGUA": {
+    "debt":40.6
+  },
+  "SWEDEN": {
+    "debt":40.2
+  },
+  "ROMANIA": {
+    "debt":39.4
+  },
+  "LITHUANIA": {
+    "debt":38.7
+  },
+  "BURUNDI": {
+    "debt":38.6
+  },
+  "DJIBOUTI": {
+    "debt":38.6
+  },
+  "ARGENTINA": {
+    "debt":37.9
+  },
+  "ZAMBIA": {
+    "debt":37.3
+  },
+  "KOREA, SOUTH": {
+    "debt":37.2
+  },
+  "PANAMA": {
+    "debt":37.2
+  },
+  "HONG KONG": {
+    "debt":37
+  },
+  "LATVIA": {
+    "debt":36.5
+  },
+  "TAIWAN": {
+    "debt":36.5
+  },
+  "TURKEY": {
+    "debt":36.5
+  },
+  "GEORGIA": {
+    "debt":36.3
+  },
+  "UGANDA": {
+    "debt":35.7
+  },
+  "BOLIVIA": {
+    "debt":35.3
+  },
+  "NEW ZEALAND": {
+    "debt":35.3
+  },
+  "SWITZERLAND": {
+    "debt":34.7
+  },
+  "AUSTRALIA": {
+    "debt":34.5
+  },
+  "CHAD": {
+    "debt":34.5
+  },
+  "MACEDONIA": {
+    "debt":34
+  },
+  "CONGO, DEMOCRATIC REPUBLIC OF THE": {
+    "debt":33.4
+  },
+  "CURACAO": {
+    "debt":33.2
+  },
+  "PAPUA NEW GUINEA": {
+    "debt":32.3
+  },
+  "MALI": {
+    "debt":32.1
+  },
+  "RWANDA": {
+    "debt":31.4
+  },
+  "CONGO, REPUBLIC OF THE": {
+    "debt":30.2
+  },
+  "BENIN": {
+    "debt":30.1
+  },
+  "SIERRA LEONE": {
+    "debt":30.1
+  },
+  "QATAR": {
+    "debt":30
+  },
+  "NEPAL": {
+    "debt":30
+  },
+  "ECUADOR": {
+    "debt":30
+  },
+  "GUATEMALA": {
+    "debt":29.9
+  },
+  "NORWAY": {
+    "debt":29.6
+  },
+  "NAMIBIA": {
+    "debt":28.6
+  },
+  "BANGLADESH": {
+    "debt":28.6
+  },
+  "SAN MARINO": {
+    "debt":25.8
+  },
+  "INDONESIA": {
+    "debt":23.9
+  },
+  "LUXEMBOURG": {
+    "debt":23.2
+  },
+  "BULGARIA": {
+    "debt":22.9
+  },
+  "CAMEROON": {
+    "debt":22.7
+  },
+  "CHINA": {
+    "debt":22.4
+  },
+  "BELARUS": {
+    "debt":22.3
+  },
+  "ANGUILLA": {
+    "debt":19.5
+  },
+  "MOLDOVA": {
+    "debt":18.9
+  },
+  "PARAGUAY": {
+    "debt":18.4
+  },
+  "GABON": {
+    "debt":17.7
+  },
+  "BOTSWANA": {
+    "debt":17.4
+  },
+  "CHILE": {
+    "debt":16.5
+  },
+  "PERU": {
+    "debt":15.9
+  },
+  "ANGOLA": {
+    "debt":13.9
+  },
+  "RUSSIA": {
+    "debt":13.4
+  },
+  "KAZAKHSTAN": {
+    "debt":12.1
+  },
+  "NIGERIA": {
+    "debt":11.7
+  },
+  "IRAN": {
+    "debt":11.4
+  },
+  "AZERBAIJAN": {
+    "debt":10.7
+  },
+  "ESTONIA": {
+    "debt":9.9
+  },
+  "KOSOVO": {
+    "debt":9.1
+  },
+  "EQUATORIAL GUINEA": {
+    "debt":8.4
+  },
+  "LIBERIA": {
+    "debt":8.1
+  },
+  "ALGERIA": {
+    "debt":7.5
+  },
+  "UZBEKISTAN": {
+    "debt":7.5
+  },
+  "GIBRALTAR": {
+    "debt":7.5
+  },
+  "KUWAIT": {
+    "debt":6.8
+  },
+  "TAJIKISTAN": {
+    "debt":6.5
+  },
+  "WALLIS AND FUTUNA": {
+    "debt":5.6
+  },
+  "OMAN": {
+    "debt":4.7
+  },
+  "LIBYA": {
+    "debt":2.9
+  },
+  "SAUDI ARABIA": {
+    "debt":1.6
+  }
+}

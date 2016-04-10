@@ -1,0 +1,42 @@
+#map1{
+    width: 800px;
+    height: 600px;
+    border: 1px solid gray;
+}
+div#tooltip{
+    min-width: 60px;
+    height: 20px;
+    padding: 2px;
+    border: 1px solid gray;
+    background-color: appworkspace;
+    position: absolute;
+    z-index: 101;
+    white-space: nowrap; 
+}
+div#legend-chart{
+    position: absolute;
+    width: 75px;
+    height: 150px;
+    right: 0px;
+    top: 0px;
+    background-color: #eee;
+    z-index: 100;
+}
+div#legend-chart>svg{
+    width: 55px;
+    height: 180px;
+    margin: 15px;
+    writing-mode: tb;
+}
+g.leaflet-zoom-hide>g{
+    cursor: default;
+}
+.rect-base {
+    stroke: #696868;
+    stroke-width: 1px;
+}
+.rect-base-null {
+    stroke: #696868;
+    stroke-width: 1px;
+    fill: transparent;
+}

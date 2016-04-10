@@ -1,0 +1,752 @@
+{
+  "Country Code": {
+    "gini":"last "
+  },
+  "ABW": {
+    "gini":""
+  },
+  "AND": {
+    "gini":""
+  },
+  "AFG": {
+    "gini":""
+  },
+  "AGO": {
+    "gini":""
+  },
+  "ALB": {
+    "gini":"28.96"
+  },
+  "ARB": {
+    "gini":""
+  },
+  "ARE": {
+    "gini":""
+  },
+  "ARG": {
+    "gini":"42.28"
+  },
+  "ARM": {
+    "gini":"31.54"
+  },
+  "ASM": {
+    "gini":""
+  },
+  "ATG": {
+    "gini":""
+  },
+  "AUS": {
+    "gini":""
+  },
+  "AUT": {
+    "gini":""
+  },
+  "AZE": {
+    "gini":""
+  },
+  "BDI": {
+    "gini":""
+  },
+  "BEL": {
+    "gini":""
+  },
+  "BEN": {
+    "gini":"43.44"
+  },
+  "BFA": {
+    "gini":""
+  },
+  "BGD": {
+    "gini":"31.98"
+  },
+  "BGR": {
+    "gini":"36.01"
+  },
+  "BHR": {
+    "gini":""
+  },
+  "BHS": {
+    "gini":""
+  },
+  "BIH": {
+    "gini":""
+  },
+  "BLR": {
+    "gini":"26.01"
+  },
+  "BLZ": {
+    "gini":""
+  },
+  "BMU": {
+    "gini":""
+  },
+  "BOL": {
+    "gini":"48.06"
+  },
+  "BRA": {
+    "gini":"52.87"
+  },
+  "BRB": {
+    "gini":""
+  },
+  "BRN": {
+    "gini":""
+  },
+  "BTN": {
+    "gini":"38.65"
+  },
+  "BWA": {
+    "gini":""
+  },
+  "CAF": {
+    "gini":""
+  },
+  "CAN": {
+    "gini":""
+  },
+  "CEB": {
+    "gini":""
+  },
+  "CHE": {
+    "gini":""
+  },
+  "CHI": {
+    "gini":""
+  },
+  "CHL": {
+    "gini":"50.45"
+  },
+  "CHN": {
+    "gini":""
+  },
+  "CIV": {
+    "gini":""
+  },
+  "CMR": {
+    "gini":""
+  },
+  "COG": {
+    "gini":"40.16"
+  },
+  "COL": {
+    "gini":"53.49"
+  },
+  "COM": {
+    "gini":""
+  },
+  "CPV": {
+    "gini":""
+  },
+  "CRI": {
+    "gini":"49.18"
+  },
+  "CSS": {
+    "gini":""
+  },
+  "CUB": {
+    "gini":""
+  },
+  "CUW": {
+    "gini":""
+  },
+  "CYM": {
+    "gini":""
+  },
+  "CYP": {
+    "gini":""
+  },
+  "CZE": {
+    "gini":"26.13"
+  },
+  "DEU": {
+    "gini":""
+  },
+  "DJI": {
+    "gini":"45.13"
+  },
+  "DMA": {
+    "gini":""
+  },
+  "DNK": {
+    "gini":""
+  },
+  "DOM": {
+    "gini":"47.07"
+  },
+  "DZA": {
+    "gini":""
+  },
+  "EAP": {
+    "gini":""
+  },
+  "EAS": {
+    "gini":""
+  },
+  "ECA": {
+    "gini":""
+  },
+  "ECS": {
+    "gini":""
+  },
+  "ECU": {
+    "gini":"47.29"
+  },
+  "EGY": {
+    "gini":""
+  },
+  "EMU": {
+    "gini":""
+  },
+  "ERI": {
+    "gini":""
+  },
+  "ESP": {
+    "gini":""
+  },
+  "EST": {
+    "gini":"33.15"
+  },
+  "ETH": {
+    "gini":"33.17"
+  },
+  "EUU": {
+    "gini":""
+  },
+  "FCS": {
+    "gini":""
+  },
+  "FIN": {
+    "gini":""
+  },
+  "FJI": {
+    "gini":""
+  },
+  "FRA": {
+    "gini":""
+  },
+  "FRO": {
+    "gini":""
+  },
+  "FSM": {
+    "gini":""
+  },
+  "GAB": {
+    "gini":""
+  },
+  "GBR": {
+    "gini":""
+  },
+  "GEO": {
+    "gini":"40.03"
+  },
+  "GHA": {
+    "gini":""
+  },
+  "GIN": {
+    "gini":"33.73"
+  },
+  "GMB": {
+    "gini":""
+  },
+  "GNB": {
+    "gini":"50.66"
+  },
+  "GNQ": {
+    "gini":""
+  },
+  "GRC": {
+    "gini":""
+  },
+  "GRD": {
+    "gini":""
+  },
+  "GRL": {
+    "gini":""
+  },
+  "GTM": {
+    "gini":"52.35"
+  },
+  "GUM": {
+    "gini":""
+  },
+  "GUY": {
+    "gini":""
+  },
+  "HIC": {
+    "gini":""
+  },
+  "HKG": {
+    "gini":""
+  },
+  "HND": {
+    "gini":"53.67"
+  },
+  "HPC": {
+    "gini":""
+  },
+  "HRV": {
+    "gini":"31.98"
+  },
+  "HTI": {
+    "gini":"60.79"
+  },
+  "HUN": {
+    "gini":"30.55"
+  },
+  "IDN": {
+    "gini":""
+  },
+  "IMN": {
+    "gini":""
+  },
+  "IND": {
+    "gini":""
+  },
+  "INX": {
+    "gini":""
+  },
+  "IRL": {
+    "gini":""
+  },
+  "IRN": {
+    "gini":"37.35"
+  },
+  "IRQ": {
+    "gini":""
+  },
+  "ISL": {
+    "gini":""
+  },
+  "ISR": {
+    "gini":""
+  },
+  "ITA": {
+    "gini":""
+  },
+  "JAM": {
+    "gini":""
+  },
+  "JOR": {
+    "gini":"33.66"
+  },
+  "JPN": {
+    "gini":""
+  },
+  "KAZ": {
+    "gini":"26.35"
+  },
+  "KEN": {
+    "gini":""
+  },
+  "KGZ": {
+    "gini":"27.37"
+  },
+  "KHM": {
+    "gini":"30.76"
+  },
+  "KIR": {
+    "gini":""
+  },
+  "KNA": {
+    "gini":""
+  },
+  "KOR": {
+    "gini":""
+  },
+  "KSV": {
+    "gini":"26.71"
+  },
+  "KWT": {
+    "gini":""
+  },
+  "LAC": {
+    "gini":""
+  },
+  "LAO": {
+    "gini":"37.89"
+  },
+  "LBN": {
+    "gini":""
+  },
+  "LBR": {
+    "gini":""
+  },
+  "LBY": {
+    "gini":""
+  },
+  "LCA": {
+    "gini":""
+  },
+  "LCN": {
+    "gini":""
+  },
+  "LDC": {
+    "gini":""
+  },
+  "LIC": {
+    "gini":""
+  },
+  "LIE": {
+    "gini":""
+  },
+  "LKA": {
+    "gini":"38.58"
+  },
+  "LMC": {
+    "gini":""
+  },
+  "LMY": {
+    "gini":""
+  },
+  "LSO": {
+    "gini":""
+  },
+  "LTU": {
+    "gini":"35.15"
+  },
+  "LUX": {
+    "gini":""
+  },
+  "LVA": {
+    "gini":"35.48"
+  },
+  "MAC": {
+    "gini":""
+  },
+  "MAF": {
+    "gini":""
+  },
+  "MAR": {
+    "gini":""
+  },
+  "MCO": {
+    "gini":""
+  },
+  "MDA": {
+    "gini":"28.53"
+  },
+  "MDG": {
+    "gini":""
+  },
+  "MDV": {
+    "gini":""
+  },
+  "MEA": {
+    "gini":""
+  },
+  "MEX": {
+    "gini":"48.07"
+  },
+  "MHL": {
+    "gini":""
+  },
+  "MIC": {
+    "gini":""
+  },
+  "MKD": {
+    "gini":""
+  },
+  "MLI": {
+    "gini":""
+  },
+  "MLT": {
+    "gini":""
+  },
+  "MMR": {
+    "gini":""
+  },
+  "MNA": {
+    "gini":""
+  },
+  "MNE": {
+    "gini":"33.19"
+  },
+  "MNG": {
+    "gini":"33.75"
+  },
+  "MNP": {
+    "gini":""
+  },
+  "MOZ": {
+    "gini":""
+  },
+  "MRT": {
+    "gini":""
+  },
+  "MUS": {
+    "gini":"35.84"
+  },
+  "MWI": {
+    "gini":""
+  },
+  "MYS": {
+    "gini":""
+  },
+  "NAC": {
+    "gini":""
+  },
+  "NAM": {
+    "gini":""
+  },
+  "NCL": {
+    "gini":""
+  },
+  "NER": {
+    "gini":"31.45"
+  },
+  "NGA": {
+    "gini":""
+  },
+  "NIC": {
+    "gini":""
+  },
+  "NLD": {
+    "gini":""
+  },
+  "NOC": {
+    "gini":""
+  },
+  "NOR": {
+    "gini":""
+  },
+  "NPL": {
+    "gini":"32.75"
+  },
+  "NZL": {
+    "gini":""
+  },
+  "OEC": {
+    "gini":""
+  },
+  "OED": {
+    "gini":""
+  },
+  "OMN": {
+    "gini":""
+  },
+  "OSS": {
+    "gini":""
+  },
+  "PAK": {
+    "gini":"29.59"
+  },
+  "PAN": {
+    "gini":"51.67"
+  },
+  "PER": {
+    "gini":"44.73"
+  },
+  "PHL": {
+    "gini":"43.04"
+  },
+  "PLW": {
+    "gini":""
+  },
+  "PNG": {
+    "gini":""
+  },
+  "POL": {
+    "gini":"32.39"
+  },
+  "PRI": {
+    "gini":""
+  },
+  "PRK": {
+    "gini":""
+  },
+  "PRT": {
+    "gini":""
+  },
+  "PRY": {
+    "gini":"48.3"
+  },
+  "PSS": {
+    "gini":""
+  },
+  "PYF": {
+    "gini":""
+  },
+  "QAT": {
+    "gini":""
+  },
+  "ROU": {
+    "gini":"27.33"
+  },
+  "RUS": {
+    "gini":"41.59"
+  },
+  "RWA": {
+    "gini":""
+  },
+  "SAS": {
+    "gini":""
+  },
+  "SAU": {
+    "gini":""
+  },
+  "SDN": {
+    "gini":""
+  },
+  "SEN": {
+    "gini":"40.28"
+  },
+  "SGP": {
+    "gini":""
+  },
+  "SLB": {
+    "gini":""
+  },
+  "SLE": {
+    "gini":""
+  },
+  "SLV": {
+    "gini":"43.51"
+  },
+  "SMR": {
+    "gini":""
+  },
+  "SOM": {
+    "gini":""
+  },
+  "SRB": {
+    "gini":"29.65"
+  },
+  "SSA": {
+    "gini":""
+  },
+  "SSD": {
+    "gini":""
+  },
+  "SSF": {
+    "gini":""
+  },
+  "SST": {
+    "gini":""
+  },
+  "STP": {
+    "gini":"30.82"
+  },
+  "SUR": {
+    "gini":""
+  },
+  "SVK": {
+    "gini":"26.12"
+  },
+  "SVN": {
+    "gini":"25.59"
+  },
+  "SWE": {
+    "gini":""
+  },
+  "SWZ": {
+    "gini":""
+  },
+  "SXM": {
+    "gini":""
+  },
+  "SYC": {
+    "gini":""
+  },
+  "SYR": {
+    "gini":""
+  },
+  "TCA": {
+    "gini":""
+  },
+  "TCD": {
+    "gini":"43.32"
+  },
+  "TGO": {
+    "gini":"46.02"
+  },
+  "THA": {
+    "gini":"39.26"
+  },
+  "TJK": {
+    "gini":""
+  },
+  "TKM": {
+    "gini":""
+  },
+  "TLS": {
+    "gini":""
+  },
+  "TON": {
+    "gini":""
+  },
+  "TTO": {
+    "gini":""
+  },
+  "TUN": {
+    "gini":"35.81"
+  },
+  "TUR": {
+    "gini":"40.17"
+  },
+  "TUV": {
+    "gini":""
+  },
+  "TWN": {
+    "gini":""
+  },
+  "TZA": {
+    "gini":"37.78"
+  },
+  "UGA": {
+    "gini":"42.37"
+  },
+  "UKR": {
+    "gini":"24.55"
+  },
+  "UMC": {
+    "gini":""
+  },
+  "URY": {
+    "gini":"41.87"
+  },
+  "USA": {
+    "gini":""
+  },
+  "UZB": {
+    "gini":""
+  },
+  "VCT": {
+    "gini":""
+  },
+  "VEN": {
+    "gini":""
+  },
+  "VIR": {
+    "gini":""
+  },
+  "VNM": {
+    "gini":"38.7"
+  },
+  "VUT": {
+    "gini":"37.18"
+  },
+  "PSE": {
+    "gini":""
+  },
+  "WLD": {
+    "gini":""
+  },
+  "WSM": {
+    "gini":""
+  },
+  "YEM": {
+    "gini":""
+  },
+  "ZAF": {
+    "gini":"63.38"
+  },
+  "COD": {
+    "gini":"42.1"
+  },
+  "ZMB": {
+    "gini":"55.62"
+  },
+  "ZWE": {
+    "gini":""
+  }
+}
